@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning [NuxtJS](https://nuxtjs.org/)
 - 📫 Email me: [hi@louisehermosa.com](mailto:hi@louisehermosa.com)
 - 😄 Pronouns: she/her
-- 
